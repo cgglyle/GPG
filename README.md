@@ -34,4 +34,5 @@ Xo6tmSZR86Mn4ToI
 ```
 
 SHA256: `2a1558dd725508c5814ec503f9edc9c42d81233949eb3f8baad0bc1b6140a6f1` public-key.txt
+
 SHA256: `7cb228941de3dfbfd16bb1c3fbda7e0726aa3cd1ed36edf917e52825cf93d309`  public-key.asc
